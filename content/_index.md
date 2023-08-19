@@ -1,8 +1,8 @@
 ---
 banner:
   title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title_small: "to vijendra's Blog"
+  content: Shoify expert have great experience in headless commerce love to work with brand thats true follow thier vision with some proper way.
   image_enable: true
   image: /images/banner-author.png
   button:

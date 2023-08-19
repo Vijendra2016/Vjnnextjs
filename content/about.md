@@ -1,7 +1,7 @@
 ---
-title: About The Author
-image: /images/vjnnewimage.jpg
-description: "meta description"
+title: Hi, I’m Vijendra singh
+image: /images/Vjnnextjsexpert.png
+description: "Shopify expert based in india headless expert looking for job"
 layout: about
 education:
   title: Formal Education
@@ -24,7 +24,7 @@ experience:
     - Best Article
     - Best New Newel
     - Best New Newel
-    - Best Book
+    - Atomic Habits by james clear
     - Best Article
     - Best New Newel
     - Best Book

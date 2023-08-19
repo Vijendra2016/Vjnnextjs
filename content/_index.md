@@ -4,7 +4,7 @@ banner:
   title_small: "to vijendra's Blog"
   content: Shoify expert have great experience in headless commerce love to work with brand thats true follow thier vision with some proper way.
   image_enable: true
-  image: /images/banner-author.png
+  image: /images/Vjnnextjsexpert.png
   button:
     enable: true
     label: Know About Me

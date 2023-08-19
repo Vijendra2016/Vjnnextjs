@@ -33,6 +33,7 @@ const Sidebar = ({ posts, categories, className }) => {
             alt="bg-map"
           />
           <Logo />
+          Open for hire
           {markdownify(about.content, "p", "mt-8")}
           <Social
             className="socials sidebar-socials mt-6 justify-center"

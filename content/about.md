@@ -1,6 +1,6 @@
 ---
 title: About The Author
-image: /images/author.png
+image: /images/vjnnewimage.jpg
 description: "meta description"
 layout: about
 education:

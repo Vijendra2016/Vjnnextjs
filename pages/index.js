@@ -74,7 +74,7 @@ const Home = ({
           </div>
         </div>
         {banner.image_enable && (
-                <div className="col-12 lg:col-12">
+                <div className="flex flex-col h-screen">
                   <ImageFallback
                     className="mx-auto object-contain"
                     src={banner.image}

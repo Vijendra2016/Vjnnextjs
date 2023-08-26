@@ -73,6 +73,18 @@ const Home = ({
             )}
           </div>
         </div>
+        {banner.image_enable && (
+                <div className="col-9 lg:col-6">
+                  <ImageFallback
+                    className="mx-auto object-contain"
+                    src={banner.image}
+                    width={548}
+                    height={443}
+                    priority={true}
+                    alt="Banner Image"
+                  />
+                </div>
+            )}
         <h1>need help</h1>
       </section>
 

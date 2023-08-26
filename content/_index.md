@@ -1,8 +1,8 @@
 ---
 banner:
-  title: we make ecommerce sites
-  title_small: "to vijendra's Blog"
-  content: Shoify expert have great experience in headless commerce love to work with brand thats true follow thier vision with some proper way.
+  title: we Make e-Commerce Sites
+  title_small: "Morden way to design website"
+  content: Our simple missio build morden ecommerce webistes using latest technologies .
   image_enable: true
   image: /images/Vjnnextjsexpert.png
   button:

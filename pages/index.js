@@ -93,6 +93,7 @@ const Home = ({
                     src={promotion.image}
                     alt="promotion"
                   />
+                  
       </section>
 
       {/* Home main */}

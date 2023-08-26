@@ -74,7 +74,7 @@ const Home = ({
           </div>
         </div>
         {banner.image_enable && (
-                <div className="col-9 lg:col-6">
+                <div className="col-12 lg:col-12">
                   <ImageFallback
                     className="mx-auto object-contain"
                     src={banner.image}

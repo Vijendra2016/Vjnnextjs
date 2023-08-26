@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Welcome **!**
+  title: we make ecommerce sites
   title_small: "to vijendra's Blog"
   content: Shoify expert have great experience in headless commerce love to work with brand thats true follow thier vision with some proper way.
   image_enable: true

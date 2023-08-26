@@ -4,7 +4,7 @@ banner:
   title_small: "Morden way to design website"
   content: Our simple missio build morden ecommerce webistes using latest technologies .
   image_enable: true
-  image: /images/Vjnnextjsexpert.png
+  image: /images/newhomepagebannerimage.png
   button:
     enable: true
     label: Know About Me

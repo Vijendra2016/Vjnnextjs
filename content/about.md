@@ -1,6 +1,6 @@
 ---
 title: Hi, I’m Vijendra singh
-image: /images/Vjnnextjsexpert.png
+image: /images/newhomepagebannerimage.png
 description: "Shopify expert based in india headless expert looking for job"
 layout: about
 education:

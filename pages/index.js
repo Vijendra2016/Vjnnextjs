@@ -86,6 +86,13 @@ const Home = ({
                 </div>
             )}
         <h1>need help</h1>
+        <ImageFallback
+                    className="h-full w-full"
+                    height="1000"
+                    width="1000"
+                    src={promotion.image}
+                    alt="promotion"
+                  />
       </section>
 
       {/* Home main */}

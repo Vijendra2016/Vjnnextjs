@@ -149,8 +149,8 @@ const Home = ({
                 <Link href={promotion.link} className="section block pt-0">
                   <ImageFallback
                     className="h-full w-full"
-                    height="115"
-                    width="800"
+                    height="1000"
+                    width="1000"
                     src={promotion.image}
                     alt="promotion"
                   />

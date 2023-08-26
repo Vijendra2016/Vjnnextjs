@@ -73,7 +73,7 @@ const Home = ({
             )}
           </div>
         </div>
-        
+        <h1>need help</h1>
       </section>
 
       {/* Home main */}

@@ -2,7 +2,7 @@
 banner:
   title: we Make e-Commerce Sites
   title_small: "Morden way to design website"
-  content: Our simple missio build morden ecommerce webistes using latest technologies .
+  content: Our mision is very simple create stuning ecommerce websites on latest technologies .
   image_enable: true
   image: /images/newhomepagebannerimage.png
   button:
